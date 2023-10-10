@@ -25,3 +25,4 @@ Here are some features commonly found in an e-learning website:
 6. Mobile Compatibility: A design that allows the e-learning website to work seamlessly on different devices, including smartphones, tablets, and laptops.
 Overall, an e-learning website should have features that cater to the learner's needs and create a positive and engaging learning experience.
 # Thank you...!
+![elearning image](https://github.com/Mohd1999-collb/E-Learning-Website/assets/96992202/18b08373-4768-4135-aa78-d96209852b1e)
